@@ -1,0 +1,1 @@
+# my-hegemonic-avatar-list
