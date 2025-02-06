@@ -78,10 +78,3 @@ URL https://paryi.booth.pm/items/5957830
 
 URL https://paryi.booth.pm/items/5132797  
 2023年11月22日公開、ギミックがすごい多い印象。ruruneと共通素体。
-
-# ぷらすわん
-## 真冬
-<img src="https://booth.pximg.net/1ae5d9f5-29a4-4574-ab86-a316c22db92a/i/5007531/dfdc2835-e4db-44f8-85ed-20bf607ad64e_base_resized.jpg" width="300">
-
-URL https://mk22.booth.pm/items/5007531  
-2023年10月8日公開、最近人気が爆上がりしているので衣装増えそうかも。
