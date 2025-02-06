@@ -1,4 +1,4 @@
 # my-hegemonic-avatar-list
 [リストへのURL](./my-hegemonic-avatar-list.md)
 
-forkなりなんなりはお好きにどうぞ
+forkなりなんなり形式使ったりするのはお好きにどうぞ
