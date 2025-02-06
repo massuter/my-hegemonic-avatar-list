@@ -10,14 +10,14 @@
 <img src="https://booth.pximg.net/8a7426aa-ba62-4ef0-9e7d-2c8ea96e7c9b/i/5058077/a18424fe-a56e-411a-9c47-27c56909593c_base_resized.jpg" width="300">
 
 URL https://booth.pm/ja/items/5058077  
-2023年8月31日に登場したアバター今でもBoothの表示で一番上で根強い人気があり対応衣装も多い。
+2023年8月31日公開のアバター、今でもBoothの表示で一番上で根強い人気があり対応衣装も多い。
 
 # もち山金魚
 ## キプフェル
 <img src="https://booth.pximg.net/c80ffe79-d9d7-4481-bc64-40d80bcd71e6/i/5813187/9163df6c-cc4e-4a07-ace2-d22e3be58be8_base_resized.jpg" width="300">
 
 URL https://mukumi.booth.pm/items/5813187  
-2024年6月11日に登場の比較的新しいアバター、デフォルメで使いやすいのが人気っぽい。まめふれんず共通素体。
+2024年6月11日公開のアバター、比較的新しいアバター、デフォルメで使いやすいのが人気っぽい。まめふれんず共通素体。
 ## まめひなた
 <img src="https://booth.pximg.net/c80ffe79-d9d7-4481-bc64-40d80bcd71e6/i/4340548/cb43c1f7-bbdf-4115-942a-491c32b1de24_base_resized.jpg" width="300">
 
